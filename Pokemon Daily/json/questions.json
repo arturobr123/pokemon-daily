@@ -1,0 +1,37 @@
+{
+  "questions": {
+    "niveles": [
+      {
+        "dificultad": "Entrenador",
+        "formato": "respuesta multiple",
+        "bonus": 1
+      },
+      {
+        "dificultad": "Lider de Gimnasio",
+        "formato": "letras",
+        "bonus": 1.5
+      },
+      {
+        "dificultad": "Alto Mando",
+        "formato": "completa la palabra",
+        "bonus": 2
+      },
+      {
+        "dificultad": "Campeón",
+        "formato": "caja de texto",
+        "bonus": 3.0
+      }
+    ],
+    "tipos": [
+      {
+        "trivia": "imagenes"
+      },
+      {
+        "trivia": "pokemon"
+      },
+      {
+        "trivia": "tipos"
+      }
+    ]
+  }
+}

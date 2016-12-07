@@ -1,0 +1,44 @@
+h1 {
+	text-align: center;
+	color: #E91E62;
+}
+h3 {
+	color: #1AC673;
+}
+img {
+	background-color: #E91E62;
+	max-width: 50%;
+	max-height: auto;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 25%;
+	padding-right: 25%;
+}
+div {
+	display: block;
+	margin-top: 25px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+.button {
+	background-color: white;
+	border: 2px solid #E91E62;
+	color: #E91E62	;
+	padding: 16px 32px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin: 10px 20px;
+	-webkit-transition-duration: 0.4s; /* Safari */
+	transition-duration: 0.4s;
+	cursor: pointer;
+}
+.button:hover {
+    background-color: #F2709C;
+    color: white;
+}
+.head {
+	background-color: white;
+}

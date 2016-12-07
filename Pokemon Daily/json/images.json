@@ -1,0 +1,29 @@
+{
+  "imagenes": [
+    {
+      "pokemon": "Ditto",
+      "pregunta": "ditto_escondido.jpg",
+      "imagen": "ditto_visible.jpg"
+    },
+    {
+      "pokemon": "Koffing",
+      "pregunta": "koffing_escondido.jpg",
+      "imagen": "koffing_visible.png"
+    },
+    {
+      "pokemon": "Mr. Mime",
+      "pregunta": "mime_escondido.jpg",
+      "imagen": "mime_visible.jpg"
+    },
+    {
+      "pokemon": "Pikachu",
+      "pregunta": "pikachu_escondido.png",
+      "imagen": "pikachu_visible.png"
+    },
+    {
+      "pokemon": "Poliwag",
+      "pregunta": "poliwag_escondido.jpg",
+      "imagen": "poliwag_visible.png"
+    }
+  ]
+}

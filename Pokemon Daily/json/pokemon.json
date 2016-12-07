@@ -1,0 +1,977 @@
+{
+  "pokemon": [
+    {
+      "pokedex": 1,
+      "nombre": "Bulbasaur",
+      "tipo_1": "Planta",
+      "tipo_2": "Veneno",
+      "evolución": "Ivysaur",
+      "metodo": "Llegando a nivel 16"
+    },
+    {
+      "pokedex": 2,
+      "nombre": "Ivysaur",
+      "tipo_1": "Planta",
+      "tipo_2": "Veneno",
+      "evolución": "Venusaur",
+      "metodo": "Llegando a nivel 32"
+    },
+    {
+      "pokedex": 3,
+      "nombre": "Venusaur",
+      "tipo_1": "Planta",
+      "tipo_2": "Veneno"
+    },
+    {
+      "pokedex": 4,
+      "nombre": "Charmander",
+      "tipo_1": "Fuego",
+      "evolución": "Charmeleon",
+      "metodo": "Llegando a nivel 16"
+    },
+    {
+      "pokedex": 5,
+      "nombre": "Charmeleon",
+      "tipo_1": "Fuego",
+      "evolución": "Charizard",
+      "metodo": "Llegando a nivel 36"
+    },
+    {
+      "pokedex": 6,
+      "nombre": "Charizard",
+      "tipo_1": "Fuego",
+      "tipo_2": "Volador"
+    },
+    {
+      "pokedex": 7,
+      "nombre": "Squirtle",
+      "tipo_1": "Agua",
+      "evolución": "Wartortle",
+      "metodo": "Llegando a nivel 16"
+    },
+    {
+      "pokedex": 8,
+      "nombre": "Wartortle",
+      "tipo_1": "Agua",
+      "evolución": "Blastoise",
+      "metodo": "Llegando a nivel 36"
+    },
+    {
+      "pokedex": 9,
+      "nombre": "Blastoise",
+      "tipo_1": "Agua"
+    },
+    {
+      "pokedex": 10,
+      "nombre": "Caterpie",
+      "tipo_1": "Bicho",
+      "evolución": "Metapod",
+      "metodo": "Llegando a nivel 7"
+    },
+    {
+      "pokedex": 11,
+      "nombre": "Metapod",
+      "tipo_1": "Bicho",
+      "evolución": "Butterfree",
+      "metodo": "Llegando a nivel 10"
+    },
+    {
+      "pokedex": 12,
+      "nombre": "Butterfree",
+      "tipo_1": "Bicho",
+      "tipo_2": "Volador"
+    },
+    {
+      "pokedex": 13,
+      "nombre": "Weedle",
+      "tipo_1": "Bicho",
+      "tipo_2": "Veneno",
+      "evolución": "Kakuna",
+      "metodo": "Llegando a nivel 7"
+    },
+    {
+      "pokedex": 14,
+      "nombre": "Kakuna",
+      "tipo_1": "Bicho",
+      "tipo_2": "Veneno",
+      "evolución": "Beedrill",
+      "metodo": "Llegando a nivel 10"
+    },
+    {
+      "pokedex": 15,
+      "nombre": "Beedrill",
+      "tipo_1": "Bicho",
+      "tipo_2": "Veneno"
+    },
+    {
+      "pokedex": 16,
+      "nombre": "Pidgey",
+      "tipo_1": "Normal",
+      "tipo_2": "Volador",
+      "evolución": "Pidgeotto",
+      "metodo": "Llegando a nivel 18"
+    },
+    {
+      "pokedex": 17,
+      "nombre": "Pidgeotto",
+      "tipo_1": "Normal",
+      "tipo_2": "Volador",
+      "evolución": "Pidgeon",
+      "metodo": "Llegando a nivel 36"
+    },
+    {
+      "pokedex": 18,
+      "nombre": "Pidgeot",
+      "tipo_1": "Normal",
+      "tipo_2": "Volador"
+    },
+    {
+      "pokedex": 19,
+      "nombre": "Rattata",
+      "tipo_1": "Normal",
+      "evolución": "Raticate",
+      "metodo": "Llegando a nivel 20"
+    },
+    {
+      "pokedex": 20,
+      "nombre": "Raticate",
+      "tipo_1": "Normal"
+    },
+    {
+      "pokedex": 21,
+      "nombre": "Spearow",
+      "tipo_1": "Normal",
+      "tipo_2": "Volador",
+      "evolución": "Fearow",
+      "metodo": "Llegando a nivel 20"
+    },
+    {
+      "pokedex": 22,
+      "nombre": "Fearow",
+      "tipo_1": "Normal",
+      "tipo_2": "Volador"
+    },
+    {
+      "pokedex": 23,
+      "nombre": "Ekans",
+      "tipo_1": "Veneno",
+      "evolución": "Arbok",
+      "metodo": "Llegando a nivel 22"
+    },
+    {
+      "pokedex": 24,
+      "nombre": "Arbok",
+      "tipo_1": "Veneno"
+    },
+    {
+      "pokedex": 25,
+      "nombre": "Pikachu",
+      "tipo_1": "Eléctrico",
+      "evolución": "Raichu",
+      "metodo": "Con Piedra de Trueno"
+    },
+    {
+      "pokedex": 26,
+      "nombre": "Raichu",
+      "tipo_1": "Eléctrico"
+    },
+    {
+      "pokedex": 27,
+      "nombre": "Sandshrew",
+      "tipo_1": "Tierra",
+      "evolución": "Sandslash",
+      "metodo": "Llegando a nivel 22"
+    },
+    {
+      "pokedex": 28,
+      "nombre": "Sandslash",
+      "tipo_1": "Tierra"
+    },
+    {
+      "pokedex": 29,
+      "nombre": "Nidoran♀",
+      "tipo_1": "Veneno",
+      "evolución": "Nidorina",
+      "metodo": "Llegando a nivel 16"
+    },
+    {
+      "pokedex": 30,
+      "nombre": "Nidorina",
+      "tipo_1": "Veneno",
+      "evolución": "Nidoqueen",
+      "metodo": "Con Piedra Lunar"
+    },
+    {
+      "pokedex": 31,
+      "nombre": "Nidoqueen",
+      "tipo_1": "Veneno",
+      "tipo_2": "Tierra"
+    },
+    {
+      "pokedex": 32,
+      "nombre": "Nidoran♂",
+      "tipo_1": "Veneno",
+      "evolución": "Nidorino",
+      "metodo": "Llegando a nivel 16"
+    },
+    {
+      "pokedex": 33,
+      "nombre": "Nidorino",
+      "tipo_1": "Veneno",
+      "evolución": "Nidoking",
+      "metodo": "Con Piedra Lunar"
+    },
+    {
+      "pokedex": 34,
+      "nombre": "Nidoking",
+      "tipo_1": "Veneno",
+      "tipo_2": "Tierra"
+    },
+    {
+      "pokedex": 35,
+      "nombre": "Clefairy",
+      "tipo_1": "Normal",
+      "evolución": "Clefable",
+      "metodo": "Con Piedra Lunar"
+    },
+    {
+      "pokedex": 36,
+      "nombre": "Clefable",
+      "tipo_1": "Normal"
+    },
+    {
+      "pokedex": 37,
+      "nombre": "Vulpix",
+      "tipo_1": "Fuego",
+      "evolución": "Ninetales",
+      "metodo": "Con Piedra de Fuego"
+    },
+    {
+      "pokedex": 38,
+      "nombre": "Ninetales",
+      "tipo_1": "Fuego"
+    },
+    {
+      "pokedex": 39,
+      "nombre": "Jigglypuff",
+      "tipo_1": "Normal",
+      "evolución": "Wigglytuff",
+      "metodo": "Con Piedra Lunar"
+    },
+    {
+      "pokedex": 40,
+      "nombre": "Wigglytuff",
+      "tipo_1": "Normal"
+    },
+    {
+      "pokedex": 41,
+      "nombre": "Zubat",
+      "tipo_1": "Veneno",
+      "tipo_2": "Volador",
+      "evolución": "Golbat",
+      "metodo": "Llegando a nivel 22"
+    },
+    {
+      "pokedex": 42,
+      "nombre": "Golbat",
+      "tipo_1": "Veneno",
+      "tipo_2": "Volador"
+    },
+    {
+      "pokedex": 43,
+      "nombre": "Oddish",
+      "tipo_1": "Planta",
+      "tipo_2": "Veneno",
+      "evolución": "Gloom",
+      "metodo": "Llegando a nivel 21"
+    },
+    {
+      "pokedex": 44,
+      "nombre": "Gloom",
+      "tipo_1": "Planta",
+      "tipo_2": "Veneno",
+      "evolución": "Vileplume",
+      "metodo": "Con Piedra de Hoja"
+    },
+    {
+      "pokedex": 45,
+      "nombre": "Vileplume",
+      "tipo_1": "Planta",
+      "tipo_2": "Veneno"
+    },
+    {
+      "pokedex": 46,
+      "nombre": "Paras",
+      "tipo_1": "Bicho",
+      "tipo_2": "Planta",
+      "evolución": "Parasect",
+      "metodo": "Llegando a nivel 21"
+    },
+    {
+      "pokedex": 47,
+      "nombre": "Parasect",
+      "tipo_1": "Bicho",
+      "tipo_2": "Planta"
+    },
+    {
+      "pokedex": 48,
+      "nombre": "Venonat",
+      "tipo_1": "Bicho",
+      "tipo_2": "Veneno",
+      "evolución": "Venomoth",
+      "metodo": "Llegando a nivel 34"
+    },
+    {
+      "pokedex": 49,
+      "nombre": "Venomoth",
+      "tipo_1": "Bicho",
+      "tipo_2": "Veneno"
+    },
+    {
+      "pokedex": 50,
+      "nombre": "Diglett",
+      "tipo_1": "Tierra",
+      "evolución": "Dugtrio",
+      "metodo": "Llegando a nivel 26"
+    },
+    {
+      "pokedex": 51,
+      "nombre": "Dugtrio",
+      "tipo_1": "Tierra"
+    },
+    {
+      "pokedex": 52,
+      "nombre": "Meowth",
+      "tipo_1": "Normal",
+      "evolución": "Persian",
+      "metodo": "Llegando a nivel 28"
+    },
+    {
+      "pokedex": 53,
+      "nombre": "Persian",
+      "tipo_1": "Normal"
+    },
+    {
+      "pokedex": 54,
+      "nombre": "Psyduck",
+      "tipo_1": "Agua",
+      "evolución": "Golduck",
+      "metodo": "Llegando a nivel 33"
+    },
+    {
+      "pokedex": 55,
+      "nombre": "Golduck",
+      "tipo_1": "Agua"
+    },
+    {
+      "pokedex": 56,
+      "nombre": "Mankey",
+      "tipo_1": "Lucha",
+      "evolución": "Primeape",
+      "metodo": "Llegando a nivel 28"
+    },
+    {
+      "pokedex": 57,
+      "nombre": "Primeape",
+      "tipo_1": "Lucha"
+    },
+    {
+      "pokedex": 58,
+      "nombre": "Growlithe",
+      "tipo_1": "Fuego",
+      "evolución": "Arcanine",
+      "metodo": "Llegando a nivel 16"
+    },
+    {
+      "pokedex": 59,
+      "nombre": "Arcanine",
+      "tipo_1": "Fuego"
+    },
+    {
+      "pokedex": 60,
+      "nombre": "Poliwag",
+      "tipo_1": "Agua",
+      "evolución": "Poliwhirl",
+      "metodo": "Llegando a nivel 16"
+    },
+    {
+      "pokedex": 61,
+      "nombre": "Poliwhirl",
+      "tipo_1": "Agua",
+      "evolución": "Poliwrath",
+      "metodo": "Llegando a nivel 16"
+    },
+    {
+      "pokedex": 62,
+      "nombre": "Poliwrath",
+      "tipo_1": "Agua",
+      "tipo_2": "Lucha"
+    },
+    {
+      "pokedex": 63,
+      "nombre": "Abra",
+      "tipo_1": "Psíquico",
+      "evolución": "Kadabra",
+      "metodo": "Llegando a nivel 16"
+    },
+    {
+      "pokedex": 64,
+      "nombre": "Kadabra",
+      "tipo_1": "Psíquico",
+      "evolución": "Alakazam",
+      "metodo": "Llegando a nivel 16"
+    },
+    {
+      "pokedex": 65,
+      "nombre": "Alakazam",
+      "tipo_1": "Psíquico"
+    },
+    {
+      "pokedex": 66,
+      "nombre": "Machop",
+      "tipo_1": "Lucha",
+      "evolución": "Machoke",
+      "metodo": "Llegando a nivel 16"
+    },
+    {
+      "pokedex": 67,
+      "nombre": "Machoke",
+      "tipo_1": "Lucha",
+      "evolución": "Machamp",
+      "metodo": "Llegando a nivel 16"
+    },
+    {
+      "pokedex": 68,
+      "nombre": "Machamp",
+      "tipo_1": "Lucha"
+    },
+    {
+      "pokedex": 69,
+      "nombre": "Bellsprout",
+      "tipo_1": "Planta",
+      "tipo_2": "Veneno",
+      "evolución": "Weepinbell",
+      "metodo": "Llegando a nivel 16"
+    },
+    {
+      "pokedex": 70,
+      "nombre": "Weepinbell",
+      "tipo_1": "Planta",
+      "tipo_2": "Veneno",
+      "evolución": "Victreebell",
+      "metodo": "Llegando a nivel 16"
+    },
+    {
+      "pokedex": 71,
+      "nombre": "Victreebel",
+      "tipo_1": "Planta",
+      "tipo_2": "Veneno"
+    },
+    {
+      "pokedex": 72,
+      "nombre": "Tentacool",
+      "tipo_1": "Agua",
+      "tipo_2": "Veneno",
+      "evolución": "Tentacruel",
+      "metodo": "Llegando a nivel 16"
+    },
+    {
+      "pokedex": 73,
+      "nombre": "Tentacruel",
+      "tipo_1": "Agua",
+      "tipo_2": "Veneno"
+    },
+    {
+      "pokedex": 74,
+      "nombre": "Geodude",
+      "tipo_1": "Roca",
+      "tipo_2": "Tierra",
+      "evolución": "Graveler",
+      "metodo": "Llegando a nivel 16"
+    },
+    {
+      "pokedex": 75,
+      "nombre": "Graveler",
+      "tipo_1": "Roca",
+      "tipo_2": "Tierra",
+      "evolución": "Golem",
+      "metodo": "Llegando a nivel 16"
+    },
+    {
+      "pokedex": 76,
+      "nombre": "Golem",
+      "tipo_1": "Roca",
+      "tipo_2": "Tierra"
+    },
+    {
+      "pokedex": 77,
+      "nombre": "Ponyta",
+      "tipo_1": "Fuego",
+      "evolución": "Rapidash",
+      "metodo": "Llegando a nivel 16"
+    },
+    {
+      "pokedex": 78,
+      "nombre": "Rapidash",
+      "tipo_1": "Fuego"
+    },
+    {
+      "pokedex": 79,
+      "nombre": "Slowpoke",
+      "tipo_1": "Agua",
+      "tipo_2": "Psíquico",
+      "evolución": "Slowbro",
+      "metodo": "Llegando a nivel 16"
+    },
+    {
+      "pokedex": 80,
+      "nombre": "Slowbro",
+      "tipo_1": "Agua",
+      "tipo_2": "Psíquico"
+    },
+    {
+      "pokedex": 81,
+      "nombre": "Magnemite",
+      "tipo_1": "Eléctrico",
+      "evolución": "Magneton",
+      "metodo": "Llegando a nivel 16"
+    },
+    {
+      "pokedex": 82,
+      "nombre": "Magneton",
+      "tipo_1": "Eléctrico",
+      "evolución": "Magnezone",
+      "metodo": "Llegando a nivel 16"
+    },
+    {
+      "pokedex": 83,
+      "nombre": "Farfetch'd",
+      "tipo_1": "Normal",
+      "tipo_2": "Volador"
+    },
+    {
+      "pokedex": 84,
+      "nombre": "Doduo",
+      "tipo_1": "Normal",
+      "tipo_2": "Volador",
+      "evolución": "Dodrio",
+      "metodo": "Llegando a nivel 16"
+    },
+    {
+      "pokedex": 85,
+      "nombre": "Dodrio",
+      "tipo_1": "Normal",
+      "tipo_2": "Volador"
+    },
+    {
+      "pokedex": 86,
+      "nombre": "Seel",
+      "tipo_1": "Agua",
+      "evolución": "Dewong",
+      "metodo": "Llegando a nivel 16"
+    },
+    {
+      "pokedex": 87,
+      "nombre": "Dewgong",
+      "tipo_1": "Agua",
+      "tipo_2": "Hielo"
+    },
+    {
+      "pokedex": 88,
+      "nombre": "Grimer",
+      "tipo_1": "Veneno",
+      "evolución": "Muk",
+      "metodo": "Llegando a nivel 38"
+    },
+    {
+      "pokedex": 89,
+      "nombre": "Muk",
+      "tipo_1": "Veneno"
+    },
+    {
+      "pokedex": 90,
+      "nombre": "Shellder",
+      "tipo_1": "Agua",
+      "evolución": "Cloyster",
+      "metodo": "Con Piedra de Agua"
+    },
+    {
+      "pokedex": 91,
+      "nombre": "Cloyster",
+      "tipo_1": "Agua",
+      "tipo_2": "Hielo"
+    },
+    {
+      "pokedex": 92,
+      "nombre": "Gastly",
+      "tipo_1": "Fantasma",
+      "tipo_2": "Veneno",
+      "evolución": "Haunter",
+      "metodo": "Llegando a nivel 25"
+    },
+    {
+      "pokedex": 93,
+      "nombre": "Haunter",
+      "tipo_1": "Fantasma",
+      "tipo_2": "Veneno",
+      "evolución": "Gengar",
+      "metodo": "Con un Cable Link"
+    },
+    {
+      "pokedex": 94,
+      "nombre": "Gengar",
+      "tipo_1": "Fantasma",
+      "tipo_2": "Veneno"
+    },
+    {
+      "pokedex": 95,
+      "nombre": "Onix",
+      "tipo_1": "Roca",
+      "tipo_2": "Tierra"
+    },
+    {
+      "pokedex": 96,
+      "nombre": "Drowzee",
+      "tipo_1": "Psíquico",
+      "evolución": "Hypno",
+      "metodo": "Llegando a nivel 26"
+    },
+    {
+      "pokedex": 97,
+      "nombre": "Hypno",
+      "tipo_1": "Psíquico"
+    },
+    {
+      "pokedex": 98,
+      "nombre": "Krabby",
+      "tipo_1": "Agua",
+      "evolución": "Kingler",
+      "metodo": "Llegando a nivel 28"
+    },
+    {
+      "pokedex": 99,
+      "nombre": "Kingler",
+      "tipo_1": "Agua"
+    },
+    {
+      "pokedex": 100,
+      "nombre": "Voltorb",
+      "tipo_1": "Eléctrico",
+      "evolución": "Electrode",
+      "metodo": "Llegando a nivel 30"
+    },
+    {
+      "pokedex": 101,
+      "nombre": "Electrode",
+      "tipo_1": "Eléctrico"
+    },
+    {
+      "pokedex": 102,
+      "nombre": "Exeggcute",
+      "tipo_1": "Planta",
+      "tipo_2": "Psíquico",
+      "evolución": "Eggxecutor",
+      "metodo": "Con Piedra de Hoja"
+    },
+    {
+      "pokedex": 103,
+      "nombre": "Exeggutor",
+      "tipo_1": "Planta",
+      "tipo_2": "Psíquico"
+    },
+    {
+      "pokedex": 104,
+      "nombre": "Cubone",
+      "tipo_1": "Tierra",
+      "evolución": "Marowak",
+      "metodo": "Llegando a nivel 28"
+    },
+    {
+      "pokedex": 105,
+      "nombre": "Marowak",
+      "tipo_1": "Tierra"
+    },
+    {
+      "pokedex": 106,
+      "nombre": "Hitmonlee",
+      "tipo_1": "Lucha"
+    },
+    {
+      "pokedex": 107,
+      "nombre": "Hitmonchan",
+      "tipo_1": "Lucha"
+    },
+    {
+      "pokedex": 108,
+      "nombre": "Lickitung",
+      "tipo_1": "Normal",
+      "evolución": "Lickilicky",
+      "metodo": "Subiendo de nivel con Desenrollar aprendido"
+    },
+    {
+      "pokedex": 109,
+      "nombre": "Koffing",
+      "tipo_1": "Veneno",
+      "evolución": "Weezing",
+      "metodo": "Llegando a nivel 35"
+    },
+    {
+      "pokedex": 110,
+      "nombre": "Weezing",
+      "tipo_1": "Veneno"
+    },
+    {
+      "pokedex": 111,
+      "nombre": "Rhyhorn",
+      "tipo_1": "Tierra",
+      "tipo_2": "Roca",
+      "evolución": "Rhydon",
+      "metodo": "Llegando a nivel 42"
+    },
+    {
+      "pokedex": 112,
+      "nombre": "Rhydon",
+      "tipo_1": "Tierra",
+      "tipo_2": "Roca",
+      "evolución": "Rhyperior",
+      "metodo": "Intercambiando con Protector equipado"
+    },
+    {
+      "pokedex": 113,
+      "nombre": "Chansey",
+      "tipo_1": "Normal"
+    },
+    {
+      "pokedex": 114,
+      "nombre": "Tangela",
+      "tipo_1": "Planta",
+      "evolución": "Tangrowth",
+      "metodo": "Subiendo de nivel con Poder Pasado aprendido"
+    },
+    {
+      "pokedex": 115,
+      "nombre": "Kangaskhan",
+      "tipo_1": "Normal"
+    },
+    {
+      "pokedex": 116,
+      "nombre": "Horsea",
+      "tipo_1": "Agua",
+      "evolución": "Seadra",
+      "metodo": "Llegando a nivel 32"
+    },
+    {
+      "pokedex": 117,
+      "nombre": "Seadra",
+      "tipo_1": "Agua"
+    },
+    {
+      "pokedex": 118,
+      "nombre": "Goldeen",
+      "tipo_1": "Agua",
+      "evolución": "Seaking",
+      "metodo": "Llegando a nivel 33"
+    },
+    {
+      "pokedex": 119,
+      "nombre": "Seaking",
+      "tipo_1": "Agua"
+    },
+    {
+      "pokedex": 120,
+      "nombre": "Staryu",
+      "tipo_1": "Agua",
+      "evolución": "Starmie",
+      "metodo": "Con Piedra de Agua"
+    },
+    {
+      "pokedex": 121,
+      "nombre": "Starmie",
+      "tipo_1": "Agua",
+      "tipo_2": "Psíquico"
+    },
+    {
+      "pokedex": 122,
+      "nombre": "Mr. Mime",
+      "tipo_1": "Psíquico"
+    },
+    {
+      "pokedex": 123,
+      "nombre": "Scyther",
+      "tipo_1": "Bicho",
+      "tipo_2": "Volador"
+    },
+    {
+      "pokedex": 124,
+      "nombre": "Jynx",
+      "tipo_1": "Hielo",
+      "tipo_2": "Psíquico"
+    },
+    {
+      "pokedex": 125,
+      "nombre": "Electabuzz",
+      "tipo_1": "Eléctrico",
+      "evolución": "Electivire",
+      "metodo": "Intercambiando con Electric Booster equipado"
+    },
+    {
+      "pokedex": 126,
+      "nombre": "Magmar",
+      "tipo_1": "Fuego",
+      "evolución": "Magmortar",
+      "metodo": "Intercambiando con Magma Booster equipado"
+    },
+    {
+      "pokedex": 127,
+      "nombre": "Pinsir",
+      "tipo_1": "Bicho"
+    },
+    {
+      "pokedex": 128,
+      "nombre": "Tauros",
+      "tipo_1": "Normal"
+    },
+    {
+      "pokedex": 129,
+      "nombre": "Magikarp",
+      "tipo_1": "Agua",
+      "evolución": "Gyarados",
+      "metodo": "Llegando a nivel 20"
+    },
+    {
+      "pokedex": 130,
+      "nombre": "Gyarados",
+      "tipo_1": "Agua",
+      "tipo_2": "Volador"
+    },
+    {
+      "pokedex": 131,
+      "nombre": "Lapras",
+      "tipo_1": "Agua",
+      "tipo_2": "Hielo"
+    },
+    {
+      "pokedex": 132,
+      "nombre": "Ditto",
+      "tipo_1": "Normal"
+    },
+    {
+      "pokedex": 133,
+      "nombre": "Eevee",
+      "tipo_1": "Normal",
+      "evolución": "Flareon",
+      "metodo": "Con Piedra de Agua"
+    },
+    {
+      "pokedex": 134,
+      "nombre": "Vaporeon",
+      "tipo_1": "Agua",
+      "evolución": "Jolteon",
+      "metodo": "Con Piedra de Trueno"
+    },
+    {
+      "pokedex": 135,
+      "nombre": "Jolteon",
+      "tipo_1": "Eléctrico",
+      "evolución": "Vaporeon",
+      "metodo": "Con Piedra de Fuego"
+    },
+    {
+      "pokedex": 136,
+      "nombre": "Flareon",
+      "tipo_1": "Fuego"
+    },
+    {
+      "pokedex": 137,
+      "nombre": "Porygon",
+      "tipo_1": "Normal"
+    },
+    {
+      "pokedex": 138,
+      "nombre": "Omanyte",
+      "tipo_1": "Roca",
+      "tipo_2": "Agua"
+    },
+    {
+      "pokedex": 139,
+      "nombre": "Omastar",
+      "tipo_1": "Roca",
+      "tipo_2": "Agua"
+    },
+    {
+      "pokedex": 140,
+      "nombre": "Kabuto",
+      "tipo_1": "Roca",
+      "tipo_2": "Agua",
+      "evolución": "Omastar",
+      "metodo": "Llegando a nivel 40"
+    },
+    {
+      "pokedex": 141,
+      "nombre": "Kabutops",
+      "tipo_1": "Roca",
+      "tipo_2": "Agua"
+    },
+    {
+      "pokedex": 142,
+      "nombre": "Aerodactyl",
+      "tipo_1": "Roca",
+      "tipo_2": "Volador",
+      "evolución": "Kabutops",
+      "metodo": "Llegando a nivel 40"
+    },
+    {
+      "pokedex": 143,
+      "nombre": "Snorlax",
+      "tipo_1": "Normal"
+    },
+    {
+      "pokedex": 144,
+      "nombre": "Articuno",
+      "tipo_1": "Hielo",
+      "tipo_2": "Volador"
+    },
+    {
+      "pokedex": 145,
+      "nombre": "Zapdos",
+      "tipo_1": "Eléctrico",
+      "tipo_2": "Volador"
+    },
+    {
+      "pokedex": 146,
+      "nombre": "Moltres",
+      "tipo_1": "Fuego",
+      "tipo_2": "Volador"
+    },
+    {
+      "pokedex": 147,
+      "nombre": "Dratini",
+      "tipo_1": "Dragón",
+      "evolución": "Dragonair",
+      "metodo": "Llegando a nivel 30"
+    },
+    {
+      "pokedex": 148,
+      "nombre": "Dragonair",
+      "tipo_1": "Dragón",
+      "evolución": "Dragonite",
+      "metodo": "Llegando a nivel 55"
+    },
+    {
+      "pokedex": 149,
+      "nombre": "Dragonite",
+      "tipo_1": "Dragón",
+      "tipo_2": "Volador"
+    },
+    {
+      "pokedex": 150,
+      "nombre": "Mewtwo",
+      "tipo_1": "Psíquico"
+    },
+    {
+      "pokedex": 151,
+      "nombre": "Mew",
+      "tipo_1": "Psíquico"
+    }
+  ]
+}

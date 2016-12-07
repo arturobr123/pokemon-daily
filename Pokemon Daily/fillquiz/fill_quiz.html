@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Quizz</title>
+	<link rel="stylesheet" href="fill-quiz-style.css">
+</head>
+<body>
+	<div class="head">
+		<h1 id="title"></h1>
+	<div>
+	<div class="menu-container">
+		<div class="points-container">
+			<h4 id="points">Puntos: 0</h4>
+		</div>
+		<div class="time-container">
+			<h4 id="time">Tiempo: 0</h4>
+		</div>
+	</div>
+	<div class="question-container">
+		<h2 id="question"></h2>
+	</div>
+	<div class="answer-container">
+		<h3 id="hint"></h3>
+		<input type="text" id="answer">
+		<button  class="button" onclick="buttonClicked()">Submit</button>
+	</div>
+	<script src="fillscript.js"></script>
+</body>
+</html>
