@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head> <meta charset="utf-8">
+    <title> Pokémon Daily </title>
+    <style>
+      #lienzoMapa {width:800px; height:520px; margin: 0 auto; border: 2px solid; }
+      div.container{
+        width: 100%;
+        border: 1px solid gray;
+      }
+      header,footer{
+        padding: .01em;
+        color: white;
+        background-color: red;
+        clear: left;
+        text-align: center;
+      }
+      nav {
+          float: left;
+          max-width: 330px;
+          margin: 0;
+          border: : 10px solid black;
+          background-color: white;
+          padding: 2em;
+          text-align: left;
+      }
+    </style>
+    </head>
+  <body background="images/PokeballBg.png">
+    <div class="container">
+      <header><h1> Encontrando algunos Pokémon... </h1></header>
+    </div>
+    <!--Escribiendo las instrucciones de cada icono-->
+    <nav>
+      <h1>¿Qué me indica cada icono?</h1><br>
+      <img src="images/Entrenador00.jpg" width="30" height="30" align="top" hspace="20">Posición actual<br><br>
+      <img src="images/radio.png" width="30" height="30" align="top" hspace="20">Pokémon's más cercanos<br><br>
+      <img src="images/Pikachu.png" width="30" height="30" align="bottom" hspace="20">¡Es un Pokémon! Da click para tener <br>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;más información<br><br>
+      <img src="images/nuevopk.png" width="30" height="30" align="bottom" hspace="20">Agregaste la ubicación de un nuevo <br>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;pokémon... (Puedes agregar más dando <br>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;dobleclick en el mapa)<br><br>
+    </nav>
+    <link rel="stylesheet" type="text/css" />
+    <!--Agregar el mapa-->
+    <script src="https://maps.googleapis.com/maps/api/js?v=3.exp"></script>
+    <script src = "mapa.js"></script>
+    <div id="lienzoMapa"></div>
+    <div class="container">
+      <footer>Copyright © Pokémon Daily</footer>
+    </div>
+  </body>
+</html>
